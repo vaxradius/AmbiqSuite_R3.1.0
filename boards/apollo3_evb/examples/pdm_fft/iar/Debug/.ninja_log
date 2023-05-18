@@ -1,0 +1,8 @@
+# ninja log v5
+0	428	7007748329363688	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3_evb/examples/pdm_fft/iar/bin/am_util_faultisr.o	5af938c2b2c5532f
+442	689	7007748332143684	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3_evb/examples/pdm_fft/iar/bin/am_util_delay.o	a4c100757960ad76
+704	1554	7007748340813682	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3_evb/examples/pdm_fft/iar/bin/am_util_stdio.o	35216b5177f1373b
+1572	1941	7007748344663693	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3_evb/examples/pdm_fft/iar/bin/pdm_fft.o	8a8bffbb5b38c57b
+1963	2022	7007748345493693	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3_evb/examples/pdm_fft/iar/bin/startup_iar.o	dbfe3920838d4af4
+2037	2137	7007748346653670	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3_evb/examples/pdm_fft/iar/bin/pdm_fft.out	c98d83ef6bea8885
+2150	2163	7007748346983684	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3_evb/examples/pdm_fft/iar/bin/pdm_fft.bin	f70e5e14f44885f0

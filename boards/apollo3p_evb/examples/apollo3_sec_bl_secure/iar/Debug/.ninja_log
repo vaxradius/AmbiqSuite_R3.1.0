@@ -1,0 +1,20 @@
+# ninja log v5
+1	437	7007750149359322	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/aes.o	5e40105c6f407588
+452	650	7007750151499334	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/am_util_delay.o	1174dd743732448
+667	1000	7007750154979329	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/am_devices_mspi_atxp032.o	16dc7ab57ff32ba9
+1024	1297	7007750157959334	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/apollo3_secbl_image.o	5a90aca70cbfae9
+1320	1522	7007750160229328	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/am_util_faultisr.o	8332381e423a7e4e
+1538	1687	7007750161899324	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/am_util_stdio.o	8890a5fcb93fd502
+1702	1929	7007750164279321	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/apollo3_secbl_flash.o	3658ef1ae8db0c68
+1944	2190	7007750166899340	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/apollo3_secbl.o	bf4f3ad02d78b4aa
+2206	2422	7007750169219328	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/apollo3_secbl_info0.o	fea741c7c8485ea9
+2438	2686	7007750171859327	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/md.o	df86152a337bf594
+2702	2930	7007750174299334	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/apollo3_secbl_mspi_flash.o	cf57ca035930986
+2946	3160	7007750176599320	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/md_wrap.o	775c3b55665037af
+3176	3400	7007750178999328	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/apollo3_secbl_secure.o	79cb284bb02d2efc
+3416	3681	7007750181789324	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/memory_buffer_alloc.o	13f8754ec861cd01
+3698	3901	7007750184009322	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/platform.o	c29d6da09d5d18c8
+3916	4179	7007750186779326	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/sha256.o	39d5649f7e2944b2
+4198	4254	7007750187569345	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/startup_iar.o	8d6e325cdb75a0a5
+4270	4445	7007750189439731	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/apollo3_sec_bl_secure.out	d80ee4490402668f
+4474	4491	7007750190009341	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/apollo3_sec_bl_secure/iar/bin/apollo3_sec_bl_secure.bin	c06587c0356924f

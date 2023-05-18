@@ -1,0 +1,16 @@
+# ninja log v5
+0	400	7007766389808546	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/am_devices_led.o	d7272246872cd235
+420	628	7007766392088544	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/am_time.o	df051d16cadf7036
+643	1439	7007766400179626	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/core_matrix.o	cfbf3bd592b41675
+1454	1657	7007766402379637	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/am_util_delay.o	e141a53a231e46b8
+1674	2348	7007766409275235	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/core_main.o	e8e96ff84898e9dc
+2364	3198	7007766417800818	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/am_util_stdio.o	44018cd0772827ad
+3212	3709	7007766422881959	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/core_list_join.o	21310797c1452e82
+3724	3944	7007766425241954	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/am_util_faultisr.o	adaf58c90fcd934f
+3957	3997	7007766425821960	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/coremark.o	566d6ed24e176746
+4010	4403	7007766429823062	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/core_util.o	8c5dfd9cbbd2a281
+4415	4894	7007766434733067	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/core_state.o	aab0aa744d75ffe1
+4908	4964	7007766435493065	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/startup_iar.o	3efd1b6e605ebbfc
+4978	5301	7007766438808703	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/core_portme.o	a2e28a51a9beb77f
+5314	5436	7007766440184334	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/coremark.out	f12769d1b2fd5fb6
+5455	5467	7007766440574344	C:/jenkins-agent/workspace/AmbiqSuite_release_3_3p/workspace/boards/apollo3p_evb/examples/coremark/iar/bin/coremark.bin	bbf274824268c72d
