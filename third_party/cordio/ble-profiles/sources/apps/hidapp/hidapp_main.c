@@ -68,10 +68,10 @@ static const appSlaveCfg_t hidAppSlaveCfg =
 /*! configurable parameters for security */
 static const appSecCfg_t hidAppSecCfg =
 {
-  DM_AUTH_BOND_FLAG | DM_AUTH_SC_FLAG,    /*! Authentication and bonding flags */
-  0,                                      /*! Initiator key distribution flags */
+  DM_AUTH_BOND_FLAG | DM_AUTH_MITM_FLAG,    /*! Authentication and bonding flags */
+  DM_KEY_DIST_LTK,                                      /*! Initiator key distribution flags */
   DM_KEY_DIST_LTK,                        /*! Responder key distribution flags */
-  FALSE,                                  /*! TRUE if Out-of-band pairing data is present */
+  TRUE,                                  /*! TRUE if Out-of-band pairing data is present */
   TRUE                                    /*! TRUE to initiate security upon connection */
 };
 
